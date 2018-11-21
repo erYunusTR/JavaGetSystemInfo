@@ -15,6 +15,5 @@ public class Main {
 
             System.out.println("Your current Hostname : " + hostname);
 
-
     }
 }
